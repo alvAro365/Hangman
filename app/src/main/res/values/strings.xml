@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Main menu</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="green_string">Green</string>
+    <string name="red_string">Red</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
+    <string name="textview">TextView</string>
+    <string name="action_info">Info</string>
+    <string name="action_play">Play</string>
+    <string name="name_game">Hangman</string>
+    <string name="play_game">Play game</string>
+    <string name="info">Programmed by Alvar!</string>
+    <string name="about_activity">AboutActivity</string>
+    <string name="hangman">Hangman</string>
+    <string name="guess">Guess!</string>
+    <string name="give_me_a_character">Give me a character!</string>
+    <string name="used_letters">Used characters</string>
+    <string name="no_value" translatable="false">----------</string>
+    <string name="amount_of_guesses_left">Amount of guesses left</string>
+    <string name="guesses_left">guesses left</string>
+    <string name="hello">Hello</string>
+    <string name="letter_used">You have already used this letter</string>
+    <string name="no_character_found">No character found</string>
+    <string name="result_activiy">Result</string>
+    <string name="back_to_main_menu_button">Back to main menu</string>
+    <string name="you_won">You won :)</string>
+    <string name="the_word_text">The word was:</string>
+    <string name="amount_of_guesses_left_result">Amout of guesses left:</string>
+    <string name="you_lost_text">You lost :(</string>
+    <string name="one_character_toast">You can only enter one character at a time</string>
+    <string name="mercury">MERCURY</string>
+    <string name="venus">VENUS</string>
+    <string name="earth">EARTH</string>
+    <string name="mars">MARS</string>
+    <string name="jupiter">JUPITER</string>
+    <string name="saturn">SATURN</string>
+    <string name="uranus">URANUS</string>
+    <string name="neptune">NEPTUNE</string>
+    <string name="image_name">hang</string>
+    <string name="only_char_text">Only characters, please!</string>
+
+    <string-array name="all_words">
+        <item>@string/mercury</item>
+        <item>@string/venus</item>
+        <item>@string/earth</item>
+        <item>@string/mars</item>
+        <item>@string/jupiter</item>
+        <item>@string/saturn</item>
+        <item>@string/uranus</item>
+        <item>@string/neptune</item>
+    </string-array>
+</resources>

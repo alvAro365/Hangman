@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Main menu</string>
+    <string name="about">Om</string>
+    <string name="about_activity">OmActivity</string>
+    <string name="action_info">Info</string>
+    <string name="action_play">Spela</string>
+    <string name="add">Lägg till</string>
+    <string name="amount_of_guesses_left">Antall gissningar kvar</string>
+    <string name="back_to_main_menu_button">Tillbaka till hyvudmeny</string>
+    <string name="amount_of_guesses_left_result">Antall gissningar kvar:</string>
+    <string name="button_send">Skicka</string>
+    <string name="edit_message">Lägg till meddelande</string>
+    <string name="exit">Exit</string>
+    <string name="give_me_a_character">Ge mig en bokstav</string>
+    <string name="green_string">Grön</string>
+    <string name="guess">Gissa!</string>
+    <string name="guesses_left">gissningar kvar</string>
+    <string name="hangman">Hänge gubbe</string>
+    <string name="hello">Hej</string>
+    <string name="info">Programmerad av Alvar</string>
+    <string name="letter_used">Du har redan använd den här bokstaven</string>
+    <string name="name_game">Hänge gubbe</string>
+    <string name="no_character_found">Hittade ingen bokstav</string>
+    <string name="one_character_toast">Du kan bara skriva inn en bokstav åt gången</string>
+    <string name="play_game">Spela spel</string>
+    <string name="red_string">Röd</string>
+    <string name="reset">Starta om</string>
+    <string name="result_activiy">Resultat</string>
+    <string name="settings">Innställningar</string>
+    <string name="textview">Tekstvy</string>
+    <string name="the_word_text">Ordet var:</string>
+    <string name="used_letters">Använda bokstav</string>
+    <string name="you_lost_text">Du förlurade :(</string>
+    <string name="you_won">Du vann :)</string>
+    <string name="earth">JORDEN</string>
+    <string name="jupiter">JUPITER</string>
+    <string name="mars">MARS</string>
+    <string name="mercury">MERKURIUS</string>
+    <string name="neptune">NEPTUNUS</string>
+    <string name="saturn">SATURNUS</string>
+    <string name="uranus">URANUS</string>
+    <string name="venus">VENUS</string>
+</resources>
